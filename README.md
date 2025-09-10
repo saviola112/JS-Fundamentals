@@ -49,5 +49,12 @@ This script demonstrates creating a constant variable and printing its value:
 This script prints a square of `X` characters. The size of the square is given as the first argument.
 
 ## Usage
+---
+
+# JS-Fundamentals — 9-add.js
+
+This script prints the addition (sum) of two integers provided as command-line arguments.
+
+## Usage
 
 
