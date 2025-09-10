@@ -1,3 +1,27 @@
+## 5-to_integer.js
+
+This script prints the first argument converted to an integer.  
+
+- If the argument can be converted: `My number: <number>`  
+- If the argument cannot be converted: `Not a number`  
+
+Examples:
+
+```bash
+node 5-to_integer.js
+# Output: Not a number
+
+node 5-to_integer.js 89
+# Output: My number: 89
+
+node 5-to_integer.js "89"
+# Output: My number: 89
+
+node 5-to_integer.js 89.89
+# Output: My number: 89
+
+node 5-to_integer.js School
+# Output: Not a number
 ## 1-multi_languages.js
 
 This script prints 3 lines, each showing a different programming language:
