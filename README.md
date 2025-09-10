@@ -56,5 +56,12 @@ This script prints a square of `X` characters. The size of the square is given a
 This script prints the addition (sum) of two integers provided as command-line arguments.
 
 ## Usage
+---
+
+# JS-Fundamentals — 10-factorial.js
+
+This script computes and prints the factorial of an integer using recursion.
+
+## Usage
 
 

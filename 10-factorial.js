@@ -6,13 +6,8 @@ function factorial(n) {
   return n * factorial(n - 1);
 }
 
-console.log(factorial(parseInt(process.argv[2])));---
+console.log(factorial(parseInt(process.argv[2])));
 
-# JS-Fundamentals — 10-factorial.js
-
-This script computes and prints the factorial of an integer using recursion.
-
-## Usage
 
 
 
