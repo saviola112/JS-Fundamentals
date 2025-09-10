@@ -20,6 +20,7 @@ node 5-to_integer.js "89"
 node 5-to_integer.js 89.89
 # Output: My number: 89
 
+
 node 5-to_integer.js School
 # Output: Not a number
 ## 1-multi_languages.js
@@ -41,3 +42,12 @@ This script demonstrates creating a constant variable and printing its value:
 - Value: `"JavaScript is amazing"`
 - Output: `JavaScript is amazing`
 # JS-Fundamentals
+---
+
+# JS-Fundamentals — 8-square.js
+
+This script prints a square of `X` characters. The size of the square is given as the first argument.
+
+## Usage
+
+
